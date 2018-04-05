@@ -34,7 +34,7 @@ e oficinas de até 1h e 30 minutos.
 
 ### Modelo de envio da proposta de trabalho
 Para submeter uma proposta, é necessário enviar um email para gelec-ufc@protonmail.com,
-com o assunto *Chamada de Trabalhos FLISOL 2018* E as seguintes informações:
+com o assunto **Chamada de Trabalhos FLISOL 2018**, contendo as seguintes informações:
 * Título
 * Tipo(palestra ou oficina)
 * Descrição
