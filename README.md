@@ -6,31 +6,31 @@ e oficinas de até 1h e 30 minutos.
 
 ### Áreas sugeridas (não exclusivo)
 * Administração de Sistemas:
-..* Bancos de Dados
-..* Desktop e Distribuições
-..* Gerenciamento de vulnerabilidades	
+  * Bancos de Dados
+  * Desktop e Distribuições
+  * Gerenciamento de vulnerabilidades	
 * Computação em Nuvem:
-..* Arquiteturas para Computação em Nuvem
-..* Computação Móvel
-..* Internet das Coisas – IoT
-..* Privacidade e Segurança
+  * Arquiteturas para Computação em Nuvem
+  * Computação Móvel
+  * Internet das Coisas – IoT
+  * Privacidade e Segurança
 * Desenvolvimento:
-..* Aplicações Desktop
-..* Ferramentas, Metodologias e Padrões
-..* Inteligência Artificial
-..* Jogos
-..* Kernel, drivers e subsistemas
-..* Linguagens de programação
+  * Aplicações Desktop
+  * Ferramentas, Metodologias e Padrões
+  * Inteligência Artificial
+  * Jogos
+  * Kernel, drivers e subsistemas
+  * Linguagens de programação
 * Hardware Aberto e Livre:
-..*Descrição de hardware livre
-..*Raspberry Pi
-..*Arduino
-..*Sistemas Embarcados
+  * Descrição de hardware livre
+  * Raspberry Pi
+  * Arduino
+  * Sistemas Embarcados
 * Temas Emergentes:
-..*Bigdata
-..*Blockchain e criptomoedas
-..*Ciência de Dados
-..*Licenças e Direitos Autorais
+ * Bigdata
+ * Blockchain e criptomoedas
+ * Ciência de Dados
+ * Licenças e Direitos Autorais
 
 ### Modelo de envio da proposta de trabalho
 Para submeter uma proposta, é necessário enviar um email para gelec-ufc@protonmail.com,
